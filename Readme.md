@@ -42,6 +42,6 @@ authSlice encapulates the state and its handling for authentication data. Protec
 
 Do not just list the technologies. Write a sentence or two for each, explaining its purpose and the problem it solves in your project. This document is the script for your interview.
 
-##What is the Architecture of the reactlearn application?
+## What is the Architecture of the reactlearn application?
 
 ![](20250620_213535.jpg)
