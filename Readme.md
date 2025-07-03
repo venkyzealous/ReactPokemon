@@ -45,3 +45,10 @@ Do not just list the technologies. Write a sentence or two for each, explaining 
 ## What is the Architecture of the reactlearn application?
 
 ![](20250620_213535.jpg)
+
+
+## How Tailwind & React Loads in Vite
+
+![](ViteReactTailwindNodeStudy.png)
+
+
